@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "~/virtual_environment/DjangoEnv/bin",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
