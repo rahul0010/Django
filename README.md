@@ -59,3 +59,13 @@
 
 ## apply migrations
 > python manage.py migrate blog
+
+## register admin
+1. open file blog/admin.py
+2. add following codes
+
+>from django.contrib import admin
+
+>from .models import Post
+
+> admin.site.register(Post)
