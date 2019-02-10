@@ -8,6 +8,7 @@
 
 ## Check python and pip version
 > python --version **OR**  python3 --version
+
 > pip --version **OR** pip3 --version
 
 ## installing virtalenv
