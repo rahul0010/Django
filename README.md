@@ -18,6 +18,7 @@
 
 ## activating env
 > source DjangoEnv/bin/activate **for linux**
+
 > source DjangoEnv/scripts/activate **for windows**
 
 ## deactivating env
